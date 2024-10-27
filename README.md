@@ -6,25 +6,32 @@
 A passionate data analysis having an experience of data mining. 
 A math graduate who is used to thinking critically, logically and dealing with data. Have good analytical skill and able to operate computers for statistical analysis data processing and make decision making process.
 
-### Technical Skills: Phyton, R, SQL.
+# Technical Skills: Phyton, R, SQL.
 
-## Education
+# Education
 -Bachelor of Mathematics | The University of Sumatera Utara (Juni 2024)
 
 
-## Work Experience/Projects
-**Bangkit Academy 2021 Capstone Project (Jakarta Smart City)
+# Work Experience/Projects
+** Bangkit Academy 2021 Capstone Project (Jakarta Smart City)
 - Indentify problems with incoming reports in Jaki application
 - Analyse the text data by determining wheter the report is urgent or not
-- Dividing the text into several segmentations and performing text extraction
-- Perform modelling for text pattern recognition and evaluate model performance
+- Dividing the text into several segmentations and performing text extraction Using Word Embedding
+- Perform modelling for text pattern recognition and evaluate model performance 
 
-**Salary Prediction
+** Salary Prediction
 - a payroll staff assigns to estimate the cost that must be incurred by the company to provide employee
 - Identify problem the cost employee salary with employee achievement
 - Statistical Analysis using mean, st deviation and histogram
 - build a model and make prediction 
-- evaluate model performance
+- evaluate the model performance Root Mean Square Error
+
+** Participant Big Data Challange Satria Data 2020 Competition
+-  Indentify the problems
+-  Analysis the image data 
+-  Dividing the image data into several segmentations 
+-  Create a model that is able to detect wheter an information is a hoax or not using Tensorflow
+-  evaluate  the model performance with confusion matrics F-1 Score
 
 
 
