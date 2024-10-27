@@ -1,6 +1,6 @@
 # Hi, All!, i'm Laili
 
-![WhatsApp Image 2024-10-26 at 19 58 08 (1)](https://github.com/user-attachments/assets/0dd9e720-57ed-4991-b304-daa8dfd5d083)
+#logo:![WhatsApp Image 2024-10-26 at 19 58 08 (1)](https://github.com/user-attachments/assets/0dd9e720-57ed-4991-b304-daa8dfd5d083)
 
 # About Me
 A passionate data analysis having an experience of data mining. 
